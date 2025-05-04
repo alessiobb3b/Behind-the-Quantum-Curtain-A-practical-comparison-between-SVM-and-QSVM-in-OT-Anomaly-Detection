@@ -1,0 +1,1 @@
+# Behind-the-Quantum-Curtain-A-practical-comparison-between-SVM-and-QSVM-in-OT-Anomaly-Detection
