@@ -10,7 +10,7 @@ import feature_selection_function as fs_fx
 import qsvm_function as qsvm_fx
 import svm_function as svm_fx
 
-PATH_RAWDATA = './TrafficLabelling'
+PATH_RAWDATA = 'insert_path_csv'
 
 final_df = pre_fx.import_data(PATH_RAWDATA)
 final_df = pre_fx.clean_dataset(final_df)
