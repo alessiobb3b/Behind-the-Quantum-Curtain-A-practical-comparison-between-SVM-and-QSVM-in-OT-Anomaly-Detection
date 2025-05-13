@@ -3,15 +3,12 @@
 This repository contains the source code used in the paper:
 
 **"Behind the Quantum Curtain: A Practical Comparison Between SVM and QSVM in OT Anomaly Detection"**
-<p align="justify">
 *Alessio Di Santo, Nicola Camarda, Walter Tiberti, Dajana Cassioli*
 
 Presented in the context of applying both classical and quantum machine learning techniques for detecting anomalies in Operational Technology (OT) environments, this work rigorously compares traditional Support Vector Machines (SVM) with Quantum Support Vector Machines (QSVM), providing real-world insights into their current capabilities and limitations.
-</p>
 ---
 
 ## 🧪 Research Context
-<p align="justify">
 This repository directly supports the experiments and results presented in the paper. The codebase enables reproducibility of:
 
 - Preprocessing and cleaning of OT network traffic data.
@@ -21,7 +18,6 @@ This repository directly supports the experiments and results presented in the p
 - Evaluation and visualization: confusion matrix, ROC and precision-recall curves, learning curve.
 
 The project demonstrates that **classical SVMs currently outperform QSVMs** for large-scale OT anomaly detection due to hardware limitations, while **QSVMs exhibit promising results** on reduced data and hint at future potential.
-</p>
 ---
 
 ## 📁 Repository Structure
