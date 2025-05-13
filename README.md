@@ -81,7 +81,7 @@ Waiting for Acceptance!!!
   Department of Information Engineering, University of L'Aquila  <br />
   [GitHub](https://github.com/alessiobb3b)
 - **Nicola Camarda** <br />
-  Independet Reseracher <br />
+  Independent Researcher <br />
   [GitHub](https://github.com/camardanic)
 
 ---
